@@ -2,7 +2,7 @@ body{
     
 }
 table{     
-	border: 4px inset #874605; 
+    border: 4px inset #874605; 
     border-collapse: collapse;
     border-spacing:20px;
 }
